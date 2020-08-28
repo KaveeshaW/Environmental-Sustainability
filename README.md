@@ -1,7 +1,7 @@
 # Environmental-Sustainability
 A document that was created during ThinkChicago's Idea Week that focuses on a environmental sustainability in Chicago.
 
-One of 20 total teams chosen to pitch our solution to the judge
+One of 20 total teams chosen to pitch our solution to judges
 
 Links to surveys at the end of the document.
 
