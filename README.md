@@ -1,5 +1,5 @@
 # Environmental-Sustainability
-A document that was created during a pitch competition for environmental sustainability in Chicago
+A document that was created during a ThinkChicago pitch competition focusing on environmental sustainability
 
 Appendix (cannot be accessed through the pdf so added it to the readme)
 
